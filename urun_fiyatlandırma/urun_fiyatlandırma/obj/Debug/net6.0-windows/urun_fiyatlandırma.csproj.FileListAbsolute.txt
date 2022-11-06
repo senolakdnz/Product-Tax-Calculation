@@ -1,0 +1,17 @@
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\urun_fiyatlandırma\urun_fiyatlandırma\bin\Debug\net6.0-windows\urun_fiyatlandırma.exe
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\urun_fiyatlandırma\urun_fiyatlandırma\bin\Debug\net6.0-windows\urun_fiyatlandırma.deps.json
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\urun_fiyatlandırma\urun_fiyatlandırma\bin\Debug\net6.0-windows\urun_fiyatlandırma.runtimeconfig.json
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\urun_fiyatlandırma\urun_fiyatlandırma\bin\Debug\net6.0-windows\urun_fiyatlandırma.dll
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\urun_fiyatlandırma\urun_fiyatlandırma\bin\Debug\net6.0-windows\urun_fiyatlandırma.pdb
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\urun_fiyatlandırma\urun_fiyatlandırma\obj\Debug\net6.0-windows\urun_fiyatlandırma.csproj.AssemblyReference.cache
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\urun_fiyatlandırma\urun_fiyatlandırma\obj\Debug\net6.0-windows\urun_fiyatlandırma.Form1.resources
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\urun_fiyatlandırma\urun_fiyatlandırma\obj\Debug\net6.0-windows\urun_fiyatlandırma.csproj.GenerateResource.cache
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\urun_fiyatlandırma\urun_fiyatlandırma\obj\Debug\net6.0-windows\urun_fiyatlandırma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\urun_fiyatlandırma\urun_fiyatlandırma\obj\Debug\net6.0-windows\urun_fiyatlandırma.AssemblyInfoInputs.cache
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\urun_fiyatlandırma\urun_fiyatlandırma\obj\Debug\net6.0-windows\urun_fiyatlandırma.AssemblyInfo.cs
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\urun_fiyatlandırma\urun_fiyatlandırma\obj\Debug\net6.0-windows\urun_fiyatlandırma.csproj.CoreCompileInputs.cache
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\urun_fiyatlandırma\urun_fiyatlandırma\obj\Debug\net6.0-windows\urun_fiyatlandırma.dll
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\urun_fiyatlandırma\urun_fiyatlandırma\obj\Debug\net6.0-windows\refint\urun_fiyatlandırma.dll
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\urun_fiyatlandırma\urun_fiyatlandırma\obj\Debug\net6.0-windows\urun_fiyatlandırma.pdb
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\urun_fiyatlandırma\urun_fiyatlandırma\obj\Debug\net6.0-windows\urun_fiyatlandırma.genruntimeconfig.cache
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\urun_fiyatlandırma\urun_fiyatlandırma\obj\Debug\net6.0-windows\ref\urun_fiyatlandırma.dll
